@@ -1,3 +1,5 @@
+# the algo is called MOORE'S VOTING ALGORITHM
+
 def majorityElement(A, N):
     candidate = A[0]
     count=1
