@@ -21,3 +21,4 @@ The Data Structures Included are -
 7. Queues 
 8. Linked Lists 
 9. Dynamic Programming 
+10. Sorting techniques 
