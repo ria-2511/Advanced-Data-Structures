@@ -14,6 +14,7 @@ The Data Structures Included are -
     4. Inserting a Node In a tree 
 
 3. Extra Algorithms for Coding Questions
+    1. Majority Element  
 4. Heaps 
 5. Hashing 
 6. Stacks 
