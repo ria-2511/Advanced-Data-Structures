@@ -1,5 +1,5 @@
 # Advanced-Data-Structures-
-All Codes and Explanation Via Comments for every Advanced Data Structure 
+All Codes and Explanation Via Comments for every Advanced Data Structure.
 The Data Structures Included are - 
 
 1. Graphs 
