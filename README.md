@@ -1,4 +1,9 @@
 # Advanced-Data-Structures-
+
+## Time Complexities below 
+
+<img src="https://lamfo-unb.github.io/img/Sorting-algorithms/Complexity.png">
+
 All Codes and Explanation Via Comments for every Advanced Data Structure.
 The Data Structures Included are - 
 
